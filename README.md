@@ -1,6 +1,6 @@
-My CV
+# Punchi Banda Lakshani Rageetha
 
-Email: lakshanipunchiband@gmail.com
+Email: lakshanirageetha@outlook.com
 
 Mobile: +971 52 5869642
 
@@ -8,55 +8,53 @@ Date of Birth - 08 Aug 1992
 
 Country of Citizenship: Sri Lanka
 
- # Professional Experience
+ ## Professional Experience
 
 Significant Achievements
 
- Completed AML/CFT, Anti-Fraud and Cyber Security (Training Certificate) – United Arab Emirates
- Unleash Your Potential (Training Certificate) – United Arab Emirates
+* Completed AML/CFT, Anti-Fraud and Cyber Security (Training Certificate) – United Arab Emirates
+* Unleash Your Potential (Training Certificate) – United Arab Emirates
 
 
-# Administrative Assistant Aug 2022 – (Present)
+### Administrative Assistant Aug 2022 – (Present)
 Business Setup Consultants DMCC - United Arab Emirates
-Duties and Responsibilities
 
- Organize and Manage all Meeting Logistics for various conferences and events across the UAE.
+* Organize and Manage all Meeting Logistics for various conferences and events across the UAE.
 
- Organizing and executing assigned business projects on behalf of clients according to client’s
+* Organizing and executing assigned business projects on behalf of clients according to client’s
 requirements.
 
- Meeting with assigned clients when needed and perform an initial assessment of a problematic
+* Meeting with assigned clients when needed and perform an initial assessment of a problematic
 situation.
 
- Collecting information about the client’s business through a variety of methods (shadowing,
+* Collecting information about the client’s business through a variety of methods (shadowing,
 interviews, surveys, reading reports etc.)
 
- Assist the client in implementing the plan and resolve any occasional discrepancies.
- Provide guidance for any occurring problems and issues.
+* Assist the client in implementing the plan and resolve any occasional discrepancies.
+* Provide guidance for any occurring problems and issues.
 
- Guiding for Golden Visa, UAE Residence Visa, Employment Visa.
+* Guiding for Golden Visa, UAE Residence Visa, Employment Visa.
 
- Guiding for Business Setup in the UAE.
+* Guiding for Business Setup in the UAE.
 
-# Front Line Associate 10 Feb 2020 - 11 June 2022
+### Front Line Associate 10 Feb 2020 - 11 June 2022
 Hadi Express Exchange - United Arab Emirates
-Duties and Responsibilities
 
- WPS Handling (Wages Protection System)
+* WPS Handling (Wages Protection System)
 
- Candidate Support via Emails, Phone Call and etc...
+* Candidate Support via Emails, Phone Call and etc...
 
- Implementation of the company's anti-money laundering compliance policy.
+* Implementation of the company's anti-money laundering compliance policy.
 
- Following AML regulations and laws.
+* Following AML regulations and laws.
 
- KYC Analyzing
+* KYC Analyzing
 
- Coordinating with Various Government Authorities and Support
+* Coordinating with Various Government Authorities and Support
 
- Background Screening Verification
+* Background Screening Verification
 
-# Educational & Professional Qualification
+### Educational & Professional Qualification
 
 International Certificate in ICT - Computing Oct 2012 – Apr 2013
 Completed to EdHat Examination – London
@@ -75,6 +73,19 @@ St. George Teachers Training Institute
 
 G.C.E. Advance Level 2012
 Girls College Dankotuwa
+
+## Skills and Qualifications
+
+Good Communications, Social Media Awareness, Content Writing, Excellent Interpersonal, Quick Learning
+Skills, The ability to Remain Calm in Emergencies or when Dealing with Difficult Customers
+Creative Problem Solver, Adaptability, Microsoft Office – Excel, PowerPoint, Word, etc
+
+
+#### I certify that the information contained in this resume are true and complete to the best of my knowledge,
+and I understand that any false information may be grounds disciplinary action or ineligibility to some
+Company benefits.
+
+#### Reference will be given upon request.
 
 
 
