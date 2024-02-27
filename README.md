@@ -38,6 +38,43 @@ interviews, surveys, reading reports etc.)
 
  Guiding for Business Setup in the UAE.
 
+# Front Line Associate 10 Feb 2020 - 11 June 2022
+Hadi Express Exchange - United Arab Emirates
+Duties and Responsibilities
+
+ WPS Handling (Wages Protection System)
+
+ Candidate Support via Emails, Phone Call and etc...
+
+ Implementation of the company's anti-money laundering compliance policy.
+
+ Following AML regulations and laws.
+
+ KYC Analyzing
+
+ Coordinating with Various Government Authorities and Support
+
+ Background Screening Verification
+
+# Educational & Professional Qualification
+
+International Certificate in ICT - Computing Oct 2012 – Apr 2013
+Completed to EdHat Examination – London
+
+IDM Computer Studies, Kochchikade, Sri Lanka.
+Achievement – End user Application
+Web Design & Development
+Personal skills Development
+
+English for Academic Purpose – Level 01
+Certificate in Practical English – C.E.L.T. Sri Lanka May 2015 – Aug 2015
+Center for English Language Training – Sri Lanka
+
+Diploma in Montessori and Diploma in Pre School Mar 2015 – Apr 2016
+St. George Teachers Training Institute
+
+G.C.E. Advance Level 2012
+Girls College Dankotuwa
 
 
 
